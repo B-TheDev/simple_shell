@@ -17,7 +17,7 @@ char *_memset(char *s, char b, unsigned int n)
 }
 
 /**
- * ffree - Function frees a dynamically allocated array of strings 
+ * ffree - Function frees a dynamically allocated array of strings
  * @pp: pointer to the array of strings to be freed.
  */
 void ffree(char **pp)
